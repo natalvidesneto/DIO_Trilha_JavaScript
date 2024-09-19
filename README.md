@@ -1,1 +1,1 @@
-# Formação JavaScript Developer
+# DIO Trilha JavaScript Developer
